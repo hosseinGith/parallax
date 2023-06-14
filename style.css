@@ -63,3 +63,8 @@ body{
     height: 50px;
     background: rgb(0, 0, 0,.7);
 }
+@meida screen and (max-width:500px){
+    .paralax2{
+        width:800px;
+    }
+}
