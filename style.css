@@ -10,10 +10,7 @@ body{
     height: 100vh;
 }
 
-.paralax1,
 .paralax2,
-.paralax3,
-.parallax4,
 .parallax5,
 .parallax6,
 .parallax7,
@@ -31,10 +28,7 @@ body{
     background-image: url(img/ball_garland_glass_131975_2560x1080.jpg);
 }
 
-.parallax4{
-    height: 500px;
-    background-image: url(img/beautiful-view-mesmerizing-nature-traditional-styled-japanese-adelaide-himeji-gardens.jpg);
-}
+
 .parallax5{
     height: 500px;
         background-image: url(img/drops_dew_petal_90137_2560x1080.jpg);
